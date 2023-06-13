@@ -2,7 +2,7 @@
 // one line one tip :)
 
 Scrap your items to get Tech Scraps; reverse engineer them to gain PRINTING experience.
-You can sell your items in the [PLAYER MARKET].
+Kamu bisa menjual barang-barang kamu di [PLAYER MARKET].
 Your crafting ranks cannot exceed your overall LEVEL; don't waste time doing research when you're capped.
 HP regenerates 100% after each battle unless you're in a dungeon!
 You always attack first; use it to your advantage!
@@ -154,7 +154,7 @@ Game broken? Refresh or reload.
 AFK never ending? Refresh or reload the game.
 Tried refreshing or reloading the game?
 Feel free to share unwanted gear.
-Be nice to other players. :)
+Bersikap baik ke pemain lain :)
 Inventory full? Sell your non-essential items in the player market or to your local trader in chat!
 Being in a gang has the perks of accessing a few new AFK tasks, as well as the gang dungeon. Plus, playing with others just makes the game much better!
 Want to be in a gang? You will have to be invited by someone. There is no application button. 
@@ -168,7 +168,7 @@ Calibrating gear makes it stronger, but calibrated gear cannot be gifted or sold
 Each level of calibration on gear adds more to the item than the last level, but is more likely to break the item as well.
 
 // Combat, Enemies, Allies
-HP goes back to full after each battle, unless you're in a dungeon!
+HP akan penuh kembali setiap pertarungan, kecuali jika kamu di dalam dungeon!
 You will always recover to full health while not in a dungeon.
 You always attack first, so make good use of that advantage!
 Shields regenerate after you defeat an enemy in the dungeon.
@@ -190,10 +190,10 @@ Don't forget to craft healing items before diving into dungeon!
 Remember, CCO mantra is not "Hit, Hit, Die".
 Are you healing items healing for half of your max HP or less? Consider transitioning to the next tier of healing items.
 Tough enemies deal more damage than normal enemies, so have your healing items at the ready.
-There's a maximum of 4 enemies in a non-boss dungeon room.
+Ada jumlah maksimal 4 musuh di ruangan dungeon non-bos.
 While challenge dungeons are harder than normal ones, the boss in challenge dungeons gives a ludicrous amount of experience and loot.
 Want to make sure everyone gets loot in a public dungeon? Make sure everyone deals at least 20% of the mob's max HP as damage.
-In public dungeons, everyone can get the loot. No need to worry about stealing loot!
+Di ruang bawah tanah publik, semua orang bisa mendapat jarahan. Tidak perlu cemas tentang mencuri jarahan!
 
 // Misc, Fun, Purchases
 Feeling faint? Stop playing and get some food.
@@ -221,4 +221,4 @@ If you like CyberCodeOnline, consider suggesting new ideas, dungeon rooms, tips,
 There is no pay to win aspect in CyberCodeOnline. Items bought through the Arasaka Unit Exchange benefit everyone, and the Cosmetic Cyberwear is purely cosmetic.
 Want to stop making the same mistakes as a beginner? Play more.
 Want to be more efficient at doing dungeons after doing it for quite some time? Stop doing them and get some rest.
-Looking for the tutorial?  It's in Profile -> Tutorial.
+Mencari tutorial? Itu ada di Profile -> Tutorial.
