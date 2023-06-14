@@ -168,33 +168,32 @@ Calibrating gear makes it stronger, but calibrated gear cannot be gifted or sold
 Each level of calibration on gear adds more to the item than the last level, but is more likely to break the item as well.
 
 // Combat, Enemies, Allies
-HP goes back to full after each battle, unless you're in a dungeon!
-You will always recover to full health while not in a dungeon.
-You always attack first, so make good use of that advantage!
-Shields regenerate after you defeat an enemy in the dungeon.
-Craft Pain Away to be able to recover health between fights in dungeons.
-Beware of enemies with extra descriptors such as tough, angry or shielded.
-Enemies with descriptors (e.g., Shielded / Mad / Angry) are tougher, but they give better rewards!
-Secret keys are needed to access higher level stations; search dungeons for their fragments!
-Remember the CCO mantra: Hit, Heal, Hit.
-Challenge dungeons always have a tough boss so don't forget to bring your friends with you when venturing in.
-When you die, you'll lose some of your experience and 10% of your Bitcoins, so be careful!
-Use only primary weapons to overpower street monsters to save ammo.
-You can't enter a dungeon that is 10 levels above your level. It's for your own good.
-If you can survive one hit in a dungeon with a sizable health bar remaining, you can win by keeping yourself healed!
-Are you at Death's door in the middle of the treasure room? Ask for support in the chat and direct them to your dungeon!
-Are enemies taking too long to kill? Try increasing your critical chance and critical damage modifier.
-You can enter dungeons already in progress to get quests and loot!
-Consider swapping to better healing items when the current ones you're using heal less than 50% of your health.
-Don't forget to craft healing items before diving into dungeon!
-Remember, CCO mantra is not "Hit, Hit, Die".
-Are you healing items healing for half of your max HP or less? Consider transitioning to the next tier of healing items.
-Tough enemies deal more damage than normal enemies, so have your healing items at the ready.
-There's a maximum of 4 enemies in a non-boss dungeon room.
-While challenge dungeons are harder than normal ones, the boss in challenge dungeons gives a ludicrous amount of experience and loot.
-Want to make sure everyone gets loot in a public dungeon? Make sure everyone deals at least 20% of the mob's max HP as damage.
-In public dungeons, everyone can get the loot. No need to worry about stealing loot!
-
+HP akan kembali terisi penuh setelah setiap setelah pertempuran, kecuali jika Anda di dalam dungeon!
+Anda akan selalu sembuh hingga kesehatan Anda penuh saat tidak di dungeon. 
+Anda selalu yang menyerang pertama kali, jadi manfaatkan keuntungan itu dengan baik!
+Perisai akan pulih setelah Anda mengalahkan musuh di dungeon.
+Buat Penghilang Rasa Sakit agar dapat memulihkan kesehatan saat diantara pertarungan di Dungeon. 
+Waspadalah pada musuh dengan ekstra deskriptor seperti tough, angry atau shielded. 
+Musuh dengan deskriptor  (misalnya, Shielded / Mad / Angry) menjadi lebih kuat, tapi mereka memberikan jarahan yang lebih bagus!
+Secret keys dibutuhkan untuk mengakses stasiun dengan level yang lebih tinggi; cari di dungeons untuk menemukan kepingannya! 
+Ingat mantra CCO: Hit, Heal, Hit.
+Challenge Dungeon selalu punya musuh yang sulit, jadi jangan lupa untuk mengajak kawan bersamamu saat menjelajah. 
+Saat Anda mati, Anda akan kehilangan beberapa pengalaman dan10% dari Bitcoins Anda, jadi berhati-hati lah!
+Hanya gunakan senjata utama untuk mengalahkan monster jalanan untuk menghemat ammo. 
+Anda tidak bisa masuk ke dungeon yang 10 level diatas level Anda. Ini untuk kebaikanmu sendiri.
+Kalau Anda bertahan satu serangan di dungeon dengan health bar tersisa yang cukup besar, Anda bisa menang dengan tetap menyembuhkan dirimu! 
+Apakah Anda berada di Pintu Kematian saat berada di tengah-tengah treasure room? Minta bantuan di obrolan dan arahkan mereka ke dungeon-mu! 
+Apakah musuh mengambil waktu yang lama untuk dibunuh? Coba naikkan modifier critical chance dan critical damage Anda. 
+Anda bisa memasuki dungeon yang sudah berlangsung untuk mendapatkan misi dan jarahan! 
+Pertimbangkan untuk menukar item penyembuh yang lebih baik jika yang saat ini Anda pakai menyembuhkan kurang dari 50% dari kesehatanmu. 
+Jangan lupa untuk membuat item penyembuh sebelum pergi ke dalam dungeon!
+Ingat, mantra CCO bukan "Hit, Hit, Die". 
+Apakah item penyembuh menyembuhkan setengah atau kurang dari max HP? Pertimbangkan untuk mentransisikan item penyembuh ke tier selanjutnya.
+Musuh kuat memberi kerusakan yang lebih dari musuh normal, jadi siapkan item penyembuh.
+Ada jumlah maximum 4 musuh di ruangan dungeon non-boss.
+Sementara saat Challenge Dungeons menjadi lebih sulit dari yang normal, boss di Challenge Dungeons memberikan jumlah EXP dan jarahan yang lucu.
+Mau memastikan semua orang mendapat jarahan di dungeon publik? Pastikan semua memberikan kerusakan setidaknya 20% dari max HP massa.
+Di dungeon publik, semua orang bisa mendapat jarahan. Ga perlu khawatir tentang mencuri jarahan!
 // Misc, Fun, Purchases
 Feeling faint? Stop playing and get some food.
 Don't forget to hydrate yourself!
